@@ -11,15 +11,24 @@ View Latest Notes: The latest four notes are displayed on the homepage.
 
 Update and Delete Notes: Users can update and delete existing notes.
 
-### Installation:
+## Installation:
 
-Clone the project to your local machine with git clone https://github.com/your-username/notes-application.git
+- Clone repo
 
-Navigate to the project folder with cd "name of folder"
 
-Install dependencies with npm install
+```bash
 
-### Usage:
-Start the application by running npm run dev
 
-Go to http://localhost:5173/ in your web browser to use the application.
+npm install
+# or
+yarn install
+
+```
+
+## Run
+
+```bash
+npm run dev
+# or
+yarn dev
+```
